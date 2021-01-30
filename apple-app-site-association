@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "A32XX78QXF.com.xkhy.dobella",
+                "paths": [ "/ulink/*"]
+            }
+        ]
+    }
+}
